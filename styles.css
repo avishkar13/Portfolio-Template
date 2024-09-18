@@ -645,6 +645,10 @@ body {
         left: -170%;
     }
 
+    .social-logo{
+        margin-top: 0%;
+    }
+
     .end-line1,
     .end-line2,
     .end-line3,
@@ -1371,7 +1375,7 @@ body {
         left: 20.5%;
     }
     .social-logo{
-        margin-top: -7%;
+        margin-top: -2%;
     }
     .aboutcontainer div p {
         padding: 3px;
