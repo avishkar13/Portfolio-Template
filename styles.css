@@ -1275,14 +1275,17 @@ body {
         margin-left: 10px;
     }
 
+    .p-flex{
+        gap: 10px;
+    }
     .p-card {
-        width: 180px;
+        width: 170px;
         height: 345px;
-        margin-left: 10px;
+        margin-left: 0;
     }
 
     .p-card:hover {
-        width: 185px;
+        width: 175px;
         height: 350px;
     }
 
@@ -1334,7 +1337,7 @@ body {
 
     #enquiry {
         height: 150px;
-        width: 350px;
+        width: 90%;
     }
     .contactContainer form button {
         margin-top: 40px;
@@ -1350,6 +1353,9 @@ body {
     .navbar ul li{
         font-size: 15px;
     }
+    .DevInfo{
+        margin-top: 345px;
+    }
     .DevInfo .abt {
         font-size: 14px;
         width: 310px;
@@ -1360,12 +1366,28 @@ body {
     .DevInfo .job {
         font-size: 19px;
     }
+    .devpic img {
+        bottom: 185%;
+        left: 20.5%;
+    }
+    .social-logo{
+        margin-top: 25px;
+    }
     .aboutcontainer div p {
         padding: 3px;
         font-size: 11px;
     }
     #Projects {
         padding-top: 76px;
+    }
+
+    .p-flex {
+        gap: 10px;
+        margin-top: -35px;
+    }
+    .p-card{
+        width: 175px;
+        margin-left: 0;
     }
     .contactContainer h1 {
         padding-top: 5px;
@@ -1399,7 +1421,7 @@ body {
         bottom: 185%;
     }
     .DevInfo {
-        margin-top: 275px;
+        margin-top: 240px;
     }
     .DevInfo .abt {
         font-size: 13px;
@@ -1410,8 +1432,14 @@ body {
     .DevInfo .job {
         font-size: 14px;
     }
+    .devpic img {
+        height: 230px;
+        width: 190px;
+        bottom: 190%;
+        left: 24%;
+    }
     .social-logo {
-        margin-top: 30px;
+        margin-top: 10px;
     }
     .buttons {
         margin-top: 6px;
