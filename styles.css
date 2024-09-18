@@ -704,7 +704,10 @@ body {
     .p-card {
         width: 300px;
     }
-
+    
+    .p-card .p-h{
+        font-size: 9px;
+    }
     /* Contact page  */
     #Contacts {
         padding-top: 80px;
