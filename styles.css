@@ -762,8 +762,8 @@ body {
         font-size: 19px;
     }
     .social-logo{
-        margin-left: 4%;
-        margin-top: 5%;
+        margin-left: 5%;
+        margin-top: 6%;
     }
 
 
@@ -1382,14 +1382,14 @@ body {
         left: 20.5%;
     }
     .social-logo{
-        margin-top: -2%;
+        margin-top: 0;
     }
     .aboutcontainer div p {
         padding: 3px;
         font-size: 11px;
     }
     #Projects {
-        padding-top: 76px;
+        padding-top: 85px;
     }
 
     .p-flex {
