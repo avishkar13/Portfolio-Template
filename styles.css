@@ -1009,7 +1009,8 @@ body {
     }
 
     #enquiry {
-        height: 90px;
+        height: 100px;
+        font-size: 17px;
     }
 }
 
